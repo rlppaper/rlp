@@ -56,7 +56,7 @@ After successfully following the Installation Guide, you can now run the `RLP` e
 
 When initializing a puzzle, you must supply the desired puzzle's name. Refer to the [list of puzzle names](#list-of-puzzles).
 
-You may find the exact commands to reproduce the paper's experiments in `experiment_commands.txt`.
+You may find the exact commands to reproduce the paper's experiments in [experiment_commands.txt](experiment_commands.txt).
 
 ### Train an Agent
 
@@ -258,7 +258,7 @@ The puzzle's internal game state is provided in the `info` dict created by the e
 info['puzzle_state']['<attribute name>']
 ```
 
-An example can be found in `custom_rewards_example.py`.
+An example can be found in [custom_rewards_example.py](custom_rewards_example.py).
 
 ## License
 
