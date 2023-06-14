@@ -8,11 +8,13 @@ We provide `RLP`, a Reinforcement Learning (RL) environment based on [Simon Tath
 
 Along with `RLP`, you may find scripts that enable reproduction of the results presented in the paper. To this end, we give instructions on how to use them below.
 
-<img src='media/bridges_demo.gif' width='19.6%' />
-<img src='media/flood_demo.gif' width='19.6%' />
-<img src='media/filling_demo.gif' width='19.6%' />
-<img src='media/rect_demo.gif' width='19.6%' />
-<img src='media/dominosa_demo.gif' width='19.6%' />
+<p float="left">
+<img src='media/bridges_demo.gif' width='19%' />
+<img src='media/dominosa_demo.gif' width='19%' />
+<img src='media/flood_demo.gif' width='19%' />
+<img src='media/rect_demo.gif' width='19%' />
+<img src='media/filling_demo.gif' width='19%' />
+</p>
 
 ## Installation Guide
 
